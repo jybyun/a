@@ -1,0 +1,11 @@
+C:\ssp_workspace\ssp_cs_test\Question4_Server\obj\Debug\Question4_Server.csproj.AssemblyReference.cache
+C:\ssp_workspace\ssp_cs_test\Question4_Server\obj\Debug\Question4_Server.csproj.CoreCompileInputs.cache
+C:\ssp_workspace\ssp_cs_test\Question4_Server\obj\Debug\Question4_Server.csproj.CopyComplete
+C:\ssp_workspace\ssp_cs_test\Question4_Server\Question4_Server.exe.config
+C:\ssp_workspace\ssp_cs_test\Question4_Server\obj\Debug\Question4_Server.exe
+C:\ssp_workspace\ssp_cs_test\Question4_Server\obj\Debug\Question4_Server.pdb
+C:\ssp_workspace\ssp_cs_test\Question4_Server\Question4_Server.exe
+C:\ssp_workspace\ssp_cs_test\Question4_Server\Question4_Server.pdb
+C:\ssp_workspace\ssp_cs_test\Question4_Server\Newtonsoft.Json.dll
+C:\ssp_workspace\ssp_cs_test\Question4_Server\Newtonsoft.Json.xml
+C:\ssp_workspace\ssp_cs_test\Question4_Server\obj\Debug\Question4_Server.csproj.SuggestedBindingRedirects.cache
